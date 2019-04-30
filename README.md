@@ -7,5 +7,5 @@ Inspired and created by :  https://dribbble.com/shots/5969614-Zava-Studio-Concep
 
 
 
-![alt-text]("https://giphy.com/embed/Ze9vISYdyr0tj88hFq")
+![image]("https://giphy.com/embed/Ze9vISYdyr0tj88hFq")
 
