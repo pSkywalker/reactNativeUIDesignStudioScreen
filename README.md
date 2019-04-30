@@ -2,10 +2,10 @@
 
 
 <h3>
-Inspired and created by :  https://dribbble.com/shots/5969614-Zava-Studio-Concept
+Inspired and designed by :  https://dribbble.com/shots/5969614-Zava-Studio-Concept
 </h3> 
 
 
 
-![image]("https://giphy.com/embed/Ze9vISYdyr0tj88hFq")
+![]("https://giphy.com/embed/Ze9vISYdyr0tj88hFq")
 
