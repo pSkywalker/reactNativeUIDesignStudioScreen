@@ -7,5 +7,5 @@ Inspired and designed by :  https://dribbble.com/shots/5969614-Zava-Studio-Conce
 
 
 
-![]("https://giphy.com/embed/Ze9vISYdyr0tj88hFq")
+![]("https://github.com/pSkywalker/reactNativeUIDesignStudioScreen/blob/master/reactNativePanelUI.gif")
 
